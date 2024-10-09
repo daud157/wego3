@@ -1,0 +1,28 @@
+# General
+*.log
+*.tmp
+node_modules/
+*.deb
+
+# Specific files and folders
+/MCLABD.pdf
+/Old Firefox Data/
+/pass.zip
+/pass/
+/loc/
+/test/
+/tre/
+/*.pkt
+/*.ods
+/*.docx
+/*.pdf
+/daudvss.docx
+/210677-Daudahmed.pkt
+/google-chrome-stable_current_amd64.deb
+
+# Project directories
+/cinemamern/
+/jenkinslab/
+/mclab/
+/my-app/
+/AwesomeProject/
